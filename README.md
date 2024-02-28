@@ -1,2 +1,3 @@
-<h1> Hi there, I'm Zaid!</h1>
-<h4>I'm a Software Developer</h4>
+<h1>I moved to <a href="https://codeberg.org/ZilloweZ">Codeberg.org</a></h1>
+<h2> Hi there, I'm Zaid!</h2>
+<h4>I moved completely to Codeberg.org, all of repos here are not supported or working.</h4>
