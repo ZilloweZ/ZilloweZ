@@ -1,6 +1,6 @@
 >[!WARNING]
 > I moved completely to GitLab
-> Find me [@Zillowe](https://gitlab.com/ZilloweZ) on GitLab
+> Find me [@ZilloweZ](https://gitlab.com/ZilloweZ) on GitLab
 
 
 <div align="center">
