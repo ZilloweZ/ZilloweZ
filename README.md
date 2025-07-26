@@ -36,7 +36,7 @@ I'm Zaid, a software developer passionate about creating efficient and user-frie
   </a>
 </div>
 
-<dic align="center">
+<div align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=vim,neovim,docker,sqlite,postgres,redis,tailwind,git,gitlab,linux,arch,bash" />
   </a>
