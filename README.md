@@ -52,8 +52,12 @@ I'm Zaid, a software developer passionate about creating efficient and user-frie
 
 ## 🚀 Projects
 
-<img alt="Zoi logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/projects/zoi.svg"/> [Zoi](https://gitlab.com/Zillowe/Zillwen/Zusty/Zoi)
+<img alt="ZDS logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/projects/zoi.svg"/> [Zoi](https://gitlab.com/Zillowe/Zillwen/Zusty/Zoi)
 > Zoi is a Universal Package Manager & Environment Setup Tool written in Rust. Currently in Beta development stage.
+
+<img alt="ZDS logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/projects/zoi.svg"/> [GCT](https://gitlab.com/Zillowe/Zillwen/Zusty/GCT)
+> GCT is a Smart, interactive Git tool powered by AI written in Go.
+
 
 ## 🌐 Social
 
@@ -66,6 +70,8 @@ I'm Zaid, a software developer passionate about creating efficient and user-frie
 <img alt="Mastodon logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/social/mastodon.svg"/> Mastodon.social: [@ZilloweZ@mastodon.social](https://mastodon.social/@ZilloweZ)
 
 <img alt="Matrix logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/social/matrix.svg"/> Matrix: [@ZilloweZ:matrix.org](https://matrix.to/#/@ZilloweZ:matrix.org)
+
+<img alt="Email icon" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/social/email.svg"/> Email: [zillowez@gmail.com](mailto:zillowez@gmail.com)
 
 ## 👨‍💻 About Me
 
