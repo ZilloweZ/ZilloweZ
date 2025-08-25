@@ -24,27 +24,55 @@ I'm Zaid, a software developer passionate about creating efficient and user-frie
 
 ## 💻 Skills & Technologies
 
+Skills and Technologies I use daily or professional with.
+
 <div align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,rails,svelte,astro" />
+      <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,rust,c,cpp,cs,ruby,python" />
+      <img src="https://skillicons.dev/icons?i=rust,go,ts,js" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vim,neovim,docker,sqlite,postgres,redis,tailwind,git,gitlab,linux,arch,bash" />
+      <img src="https://skillicons.dev/icons?i=vim,neovim,tailwind,git,gitlab,linux,arch,bash" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,godot,unity,blender,bun,obsidian" />
+      <img src="https://skillicons.dev/icons?i=figma,bun,obsidian" />
+  </a>
+</div>
+
+Skills and Technologies I'm familiar with or don't use them that often.
+
+<div align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=rails,astro,svelte" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,ruby,python" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,sqlite,postgres,redis" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=godot,unity,blender" />
   </a>
 </div>
 
@@ -53,11 +81,12 @@ I'm Zaid, a software developer passionate about creating efficient and user-frie
 ## 🚀 Projects
 
 <img alt="ZDS logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/projects/zoi.svg"/> [Zoi](https://gitlab.com/Zillowe/Zillwen/Zusty/Zoi)
+
 > Zoi is a Universal Package Manager & Environment Setup Tool written in Rust. Currently in Beta development stage.
 
 <img alt="ZDS logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/projects/zoi.svg"/> [GCT](https://gitlab.com/Zillowe/Zillwen/Zusty/GCT)
-> GCT is a Smart, interactive Git tool powered by AI written in Go.
 
+> GCT is a Smart, interactive Git tool powered by AI written in Go.
 
 ## 🌐 Social
 
