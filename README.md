@@ -76,7 +76,7 @@ Skills and Technologies I'm familiar with or don't use them that often.
   </a>
 </div>
 
-- Focus Areas: Software Development, Full-Stack Development, Web Development
+Focus Areas: Software Development, Full-Stack Development, Web Development
 
 ## 🚀 Projects
 
